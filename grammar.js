@@ -11,7 +11,7 @@
 // @ts-check
 
 module.exports = grammar({
-  name: 'javascriptlit',
+  name: 'javascript',
 
   externals: $ => [
     $._automatic_semicolon,
